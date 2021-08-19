@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629341787 source:c:\users\user\desktop\busqueda1\main.cpp
+	<iostream>
+	<fstream>
+
